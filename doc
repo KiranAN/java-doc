@@ -1,0 +1,30 @@
+Jetty 
+Is alternative to was :Yes
+Highly scalable : Yes
+Not all Java Components are supported need to use third party libraries
+Risk Present
+Migration approach:
+https://www.itjungle.com/2008/08/27/fhg082708-story02/
+
+
+WildFly
+Scalable yes
+Is Alternative yes
+https://docs.jboss.org/author/display/WFLY8/How+do+I+migrate+my+application+from+WebSphere+to+WildFly?_sscc=t
+
+Jonas
+Preferred: no
+Last stable release: 2013
+Need to find out
+Blazix 
+Need to find out
+Tomcat : stable release :2019
+TomEE : stable release :2019
+WIldfly: stable release :2019
+Blazix: not supported
+Jetty: 2019
+GlassFish:2019
+Jonas:2013 
+
+
+
